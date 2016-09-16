@@ -54,7 +54,7 @@ h2 {
 	display: inline-block;
 }
 
-#clearfix:after {
+#game-board:after {
         visibility: hidden;
         display: block;
         content: " ";
@@ -65,6 +65,11 @@ h2 {
 
 .name {
 	color: #ff0000;
+}
+
+#image {
+	height: 200px;
+	width: 150px;
 }
 
 footer {
